@@ -3,13 +3,16 @@ import { FaHeart } from "react-icons/fa6";
 import { FaRegHeart } from "react-icons/fa";
 import { PiCookingPotLight } from "react-icons/pi";
 import Image from "next/image"
+import Link from "next/link"
+const ReciepeComponent = ({title,description, excerpt,imageUrl, id}) => {
 
-const ReciepeComponent = ({title,description, excerpt,imageUrl}) => {
     return (
         <div className={"bg-gray-50 mt-4 border-t-4 border-amber-500 relative  p-2 min-w-[15em] space-y-2"}>
 
-           <Image src={imageUrl} alt={title} width={200} height={200} priority={true}/>
-            <h2 className={"font-bold"}>{title}</h2>
+          <Link href={`/recipies/${id}`} passhref={true}>
+              <Image src={imageUrl} alt={title} width={400} height={200} priority={true}/>
+              <h2 className={"font-bold"}>{title}</h2>
+          </Link>
             <p className={"text-xs"}>
                 {description}
             </p>

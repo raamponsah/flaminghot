@@ -12,11 +12,8 @@ export default  function Page(){
            const fetched =  await response.json()
            return fetched
        }
-
        f().then(d=>{
-
            setData(d)
-
        })
     }, []);
 
@@ -26,8 +23,8 @@ export default  function Page(){
     <h1>{name}</h1>
          <div className={"md:grid md:grid-cols-4   max-w-5/6 px-4 gap-4"}>
              {
-                 data.map((recipe, i)=>{
-                     return <ReciepeComponent title={recipe.title} imageUrl={recipe.imageUrl} description={recipe.description}/>
+                 data.map((recipe, index)=>{
+                     return <ReciepeComponent key={index} id={index} title={recipe.title} imageUrl={recipe.imageUrl} description={recipe.description}/>
                  })
              }
          </div>

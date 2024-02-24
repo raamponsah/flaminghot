@@ -1,8 +1,8 @@
-import { Inter } from 'next/font/google'
+import { Manrope } from 'next/font/google'
 import './globals.css'
 import Link from "next/link"
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Manrope({ subsets: ['latin'], weight:["200","300","400"] })
 
 export const metadata = {
   title: 'Flaming Hot',
