@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className }>
-      <header className={"md:flex text-white justify-between p-4 bg-purple-500 border-b-8 border-amber-100"}>
+      <header className={"md:flex text-white justify-between p-4 bg-gradient-to-r from-amber-300 to-orange-500 border-b-8 border-red-400"}>
           <h1>Logo</h1>
           <nav className={"gap-4 flex text-white"}>
               <Link href={"/"}>Home</Link>
