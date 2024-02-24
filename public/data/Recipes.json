@@ -1,0 +1,735 @@
+[
+    {
+        "title": "Pasta Carbonara",
+        "excerpt": "Classic Italian pasta dish with eggs, cheese, and pancetta.",
+        "description": "Pasta Carbonara is a classic Italian dish made with eggs, cheese, pancetta, and black pepper. It's creamy, indulgent, and quick to make.",
+        "ingredients": [
+            "8 ounces spaghetti",
+            "4 large eggs",
+            "1 cup grated Parmesan cheese",
+            "4 ounces pancetta or bacon, diced",
+            "2 cloves garlic, minced",
+            "Salt and black pepper to taste",
+            "2 tablespoons chopped fresh parsley (optional)"
+        ],
+        "steps": [
+            "Cook spaghetti according to package instructions until al dente. Reserve 1/2 cup of pasta water before draining.",
+            "In a bowl, whisk together eggs, grated Parmesan, salt, and black pepper. Set aside.",
+            "In a skillet, cook diced pancetta over medium heat until crispy. Add minced garlic and cook for another minute.",
+            "Add cooked spaghetti to the skillet with pancetta and garlic. Toss to combine.",
+            "Remove skillet from heat and quickly pour in the egg and cheese mixture, tossing continuously to coat the pasta. Add reserved pasta water as needed to create a creamy sauce.",
+            "Serve immediately, garnished with chopped parsley if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Grilled Lemon Herb Chicken",
+        "excerpt": "Tender grilled chicken marinated in lemon and herbs.",
+        "description": "Grilled Lemon Herb Chicken is bursting with flavor! The marinade infuses the chicken with tangy lemon, aromatic herbs, and garlic, resulting in tender and juicy chicken every time.",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/4 cup olive oil",
+            "3 tablespoons fresh lemon juice",
+            "2 cloves garlic, minced",
+            "1 tablespoon chopped fresh parsley",
+            "1 teaspoon chopped fresh thyme",
+            "1 teaspoon chopped fresh rosemary",
+            "Salt and black pepper to taste"
+        ],
+        "steps": [
+            "In a bowl, whisk together olive oil, lemon juice, minced garlic, chopped parsley, thyme, rosemary, salt, and black pepper to create the marinade.",
+            "Place chicken breasts in a resealable plastic bag or shallow dish. Pour the marinade over the chicken, ensuring it is evenly coated. Marinate in the refrigerator for at least 30 minutes, or up to 4 hours.",
+            "Preheat grill to medium-high heat. Remove chicken from marinade and discard excess marinade.",
+            "Grill chicken for 6-7 minutes per side, or until cooked through and no longer pink in the center.",
+            "Remove from grill and let rest for a few minutes before serving.",
+            "Serve grilled lemon herb chicken with your favorite side dishes."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Spicy Thai Basil Chicken Stir-Fry",
+        "excerpt": "Quick and easy Thai-inspired stir-fry with chicken and fresh basil.",
+        "description": "Spicy Thai Basil Chicken Stir-Fry is a flavorful dish featuring tender chicken, fresh basil, and a spicy sauce. It's quick to make and perfect for busy weeknights.",
+        "ingredients": [
+            "2 tablespoons oil",
+            "1 lb boneless, skinless chicken breasts, thinly sliced",
+            "4 cloves garlic, minced",
+            "2 red chilies, thinly sliced",
+            "1 onion, sliced",
+            "1 bell pepper, sliced",
+            "1 cup fresh basil leaves",
+            "2 tablespoons soy sauce",
+            "1 tablespoon fish sauce",
+            "1 tablespoon oyster sauce",
+            "1 teaspoon sugar"
+        ],
+        "steps": [
+            "Heat oil in a large skillet or wok over high heat. Add minced garlic and sliced red chilies, and stir-fry for 30 seconds.",
+            "Add sliced chicken to the skillet and stir-fry until cooked through.",
+            "Add sliced onion and bell pepper to the skillet, and continue stir-frying until vegetables are tender-crisp.",
+            "Stir in soy sauce, fish sauce, oyster sauce, and sugar. Cook for another minute.",
+            "Remove skillet from heat and stir in fresh basil leaves until wilted.",
+            "Serve spicy Thai basil chicken stir-fry hot with steamed rice."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Homemade Margherita Pizza",
+        "excerpt": "Classic Italian pizza topped with tomato sauce, fresh mozzarella, and basil.",
+        "description": "Homemade Margherita Pizza is a classic Italian pizza topped with tomato sauce, fresh mozzarella cheese, and basil leaves. It's simple, delicious, and perfect for pizza night at home.",
+        "ingredients": [
+            "1 pound pizza dough",
+            "1/2 cup marinara sauce",
+            "8 ounces fresh mozzarella cheese, sliced",
+            "2 large tomatoes, sliced",
+            "Fresh basil leaves",
+            "Salt and black pepper to taste",
+            "Extra virgin olive oil for drizzling"
+        ],
+        "steps": [
+            "Preheat oven to 475°F (245°C). Place a pizza stone in the oven to heat up.",
+            "Stretch out the pizza dough on a lightly floured surface to form a round pizza crust.",
+            "Spread marinara sauce evenly over the pizza dough, leaving a small border around the edges.",
+            "Arrange sliced mozzarella and tomato on top of the sauce. Season with salt and black pepper.",
+            "Transfer the pizza to the preheated pizza stone in the oven. Bake for 10-12 minutes, or until the crust is golden and the cheese is bubbly and melted.",
+            "Remove pizza from the oven and garnish with fresh basil leaves. Drizzle with extra virgin olive oil before serving."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Creamy Chicken Alfredo Pasta",
+        "excerpt": "Rich and creamy pasta dish with tender chicken and Alfredo sauce.",
+        "description": "Creamy Chicken Alfredo Pasta is a comforting dish featuring tender chicken, fettuccine pasta, and a rich Alfredo sauce made with cream, butter, and Parmesan cheese. It's a crowd-pleaser and perfect for a cozy dinner.",
+        "ingredients": [
+            "8 ounces fettuccine pasta",
+            "2 boneless, skinless chicken breasts, sliced",
+            "2 tablespoons butter",
+            "2 cloves garlic, minced",
+            "1 cup heavy cream",
+            "1 cup grated Parmesan cheese",
+            "Salt and black pepper to taste",
+            "Chopped fresh parsley for garnish (optional)"
+        ],
+        "steps": [
+            "Cook fettuccine pasta according to package instructions until al dente. Drain and set aside.",
+            "In a large skillet, melt butter over medium heat. Add sliced chicken and minced garlic, and cook until chicken is no longer pink.",
+            "Pour in heavy cream and grated Parmesan cheese, stirring until the sauce is smooth and creamy. Season with salt and black pepper to taste.",
+            "Add cooked fettuccine to the skillet, tossing to coat the pasta in the creamy sauce.",
+            "Serve creamy chicken Alfredo pasta hot, garnished with chopped fresh parsley if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Beef Tacos with Homemade Salsa",
+        "excerpt": "Classic Mexican tacos with seasoned ground beef and fresh salsa.",
+        "description": "Beef Tacos with Homemade Salsa are a delicious and satisfying meal featuring seasoned ground beef, crispy taco shells, and flavorful homemade salsa. They're easy to make and perfect for a casual dinner.",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 packet taco seasoning mix",
+            "1 cup diced tomatoes",
+            "1/2 cup diced onions",
+            "1/4 cup chopped cilantro",
+            "2 tablespoons lime juice",
+            "Salt and black pepper to taste",
+            "12 taco shells",
+            "Toppings: shredded lettuce, shredded cheese, diced avocado, sour cream"
+        ],
+        "steps": [
+            "In a skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+            "Stir in taco seasoning mix, diced tomatoes, diced onions, chopped cilantro, lime juice, salt, and black pepper. Cook for another 5 minutes, stirring occasionally.",
+            "Meanwhile, heat taco shells according to package instructions.",
+            "Fill each taco shell with seasoned beef mixture.",
+            "Serve beef tacos hot with your favorite toppings and homemade salsa."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Vegetable Stir-Fry with Tofu",
+        "excerpt": "Colorful and flavorful stir-fried vegetables with crispy tofu.",
+        "description": "Vegetable Stir-Fry with Tofu is a healthy and satisfying dish featuring a variety of colorful vegetables and crispy tofu stir-fried in a flavorful sauce. It's quick to make and perfect for a meatless meal.",
+        "ingredients": [
+            "1 block firm tofu, drained and cubed",
+            "2 tablespoons soy sauce",
+            "2 tablespoons cornstarch",
+            "2 tablespoons oil",
+            "2 cloves garlic, minced",
+            "1 onion, sliced",
+            "1 bell pepper, sliced",
+            "2 cups broccoli florets",
+            "1 carrot, julienned",
+            "1 cup snow peas",
+            "Salt and black pepper to taste",
+            "Cooked rice for serving"
+        ],
+        "steps": [
+            "In a bowl, toss cubed tofu with soy sauce and cornstarch until evenly coated.",
+            "Heat oil in a large skillet or wok over medium-high heat. Add tofu cubes and cook until golden and crispy on all sides. Remove tofu from skillet and set aside.",
+            "In the same skillet, add minced garlic, sliced onion, and sliced bell pepper. Stir-fry for 2-3 minutes until vegetables are tender-crisp.",
+            "Add broccoli florets, julienned carrot, and snow peas to the skillet. Stir-fry for another 2-3 minutes.",
+            "Return crispy tofu to the skillet and toss everything together. Season with salt and black pepper to taste.",
+            "Serve vegetable stir-fry with tofu hot over cooked rice."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Lemon Garlic Shrimp Scampi",
+        "excerpt": "Tender shrimp sautéed in a lemon garlic butter sauce.",
+        "description": "Lemon Garlic Shrimp Scampi is a delicious and elegant dish featuring tender shrimp sautéed in a flavorful lemon garlic butter sauce. It's quick to make and perfect for a special dinner.",
+        "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "Salt and black pepper to taste",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1/4 cup white wine (optional)",
+            "2 tablespoons fresh lemon juice",
+            "1/4 cup chicken broth",
+            "2 tablespoons unsalted butter",
+            "2 tablespoons chopped fresh parsley",
+            "Cooked pasta for serving"
+        ],
+        "steps": [
+            "Season shrimp with salt and black pepper to taste.",
+            "In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+            "Add seasoned shrimp to the skillet and cook for 2-3 minutes per side until pink and opaque.",
+            "Deglaze the skillet with white wine (if using), scraping up any browned bits from the bottom of the pan.",
+            "Stir in fresh lemon juice, chicken broth, and unsalted butter. Cook for another minute until the sauce is heated through and slightly thickened.",
+            "Remove skillet from heat and stir in chopped fresh parsley.",
+            "Serve lemon garlic shrimp scampi hot over cooked pasta."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Homemade Chicken Noodle Soup",
+        "excerpt": "Classic comforting soup with tender chicken, vegetables, and noodles.",
+        "description": "Homemade Chicken Noodle Soup is a classic comfort food made with tender chicken, carrots, celery, onion, and noodles in a flavorful broth. It's hearty, nourishing, and perfect for chilly days.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "2 carrots, sliced",
+            "2 celery ribs, sliced",
+            "2 cloves garlic, minced",
+            "8 cups chicken broth",
+            "2 cups shredded cooked chicken",
+            "2 cups uncooked egg noodles",
+            "2 teaspoons dried thyme",
+            "Salt and black pepper to taste",
+            "Chopped fresh parsley for garnish (optional)"
+        ],
+        "steps": [
+            "In a large pot, heat olive oil over medium heat. Add diced onion, sliced carrots, and sliced celery. Sauté until vegetables are tender.",
+            "Add minced garlic to the pot and sauté for another minute until fragrant.",
+            "Pour in chicken broth and bring to a simmer.",
+            "Add shredded cooked chicken, uncooked egg noodles, and dried thyme to the pot. Simmer for 10-12 minutes, or until noodles are cooked and tender.",
+            "Season with salt and black pepper to taste.",
+            "Serve homemade chicken noodle soup hot, garnished with chopped fresh parsley if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Vegetarian Chili",
+        "excerpt": "Hearty and flavorful chili made with beans, vegetables, and spices.",
+        "description": "Vegetarian Chili is a hearty and flavorful dish made with a variety of beans, vegetables, and spices. It's nutritious, satisfying, and perfect for cozy meals.",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, diced",
+            "2 bell peppers, diced",
+            "2 carrots, diced",
+            "2 celery ribs, diced",
+            "4 cloves garlic, minced",
+            "2 tablespoons chili powder",
+            "1 tablespoon ground cumin",
+            "1 teaspoon smoked paprika",
+            "1/2 teaspoon cayenne pepper (optional)",
+            "2 (15-ounce) cans diced tomatoes",
+            "2 (15-ounce) cans kidney beans, drained and rinsed",
+            "2 (15-ounce) cans black beans, drained and rinsed",
+            "4 cups vegetable broth",
+            "Salt and black pepper to taste",
+            "Toppings: shredded cheese, diced avocado, sour cream, chopped cilantro"
+        ],
+        "steps": [
+            "In a large pot, heat olive oil over medium heat. Add diced onion, bell peppers, carrots, and celery. Sauté until vegetables are tender.",
+            "Add minced garlic, chili powder, ground cumin, smoked paprika, and cayenne pepper (if using). Stir to coat the vegetables in the spices.",
+            "Add diced tomatoes, kidney beans, black beans, and vegetable broth to the pot. Bring to a simmer.",
+            "Simmer vegetarian chili for 20-30 minutes, stirring occasionally, until flavors are well blended and vegetables are tender.",
+            "Season with salt and black pepper to taste.",
+            "Serve vegetarian chili hot, topped with shredded cheese, diced avocado, sour cream, and chopped cilantro."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Beef and Broccoli Stir-Fry",
+        "excerpt": "Quick and flavorful stir-fried beef and broccoli with a savory sauce.",
+        "description": "Beef and Broccoli Stir-Fry is a quick and flavorful dish featuring tender beef strips, crisp broccoli florets, and a savory sauce. It's easy to make and perfect for busy weeknights.",
+        "ingredients": [
+            "1 lb flank steak, thinly sliced against the grain",
+            "3 tablespoons soy sauce",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "2 tablespoons oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "1 head broccoli, cut into florets",
+            "1/2 cup beef broth or water",
+            "Cooked rice for serving"
+        ],
+        "steps": [
+            "In a bowl, combine thinly sliced flank steak with soy sauce, oyster sauce, hoisin sauce, and cornstarch. Let marinate for 15-30 minutes.",
+            "Heat oil in a large skillet or wok over high heat. Add minced garlic and grated ginger, and stir-fry for 30 seconds until fragrant.",
+            "Add marinated beef strips to the skillet and stir-fry until browned.",
+            "Add broccoli florets to the skillet and stir-fry for another 2-3 minutes.",
+            "Pour in beef broth or water and cook for 2-3 minutes until broccoli is tender-crisp and sauce has thickened.",
+            "Serve beef and broccoli stir-fry hot over cooked rice."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Roasted Vegetable Quinoa Salad",
+        "excerpt": "Nutritious quinoa salad with roasted vegetables and a tangy dressing.",
+        "description": "Roasted Vegetable Quinoa Salad is a nutritious and flavorful dish featuring roasted vegetables, quinoa, and a tangy vinaigrette dressing. It's light, refreshing, and perfect for a healthy lunch or dinner.",
+        "ingredients": [
+            "1 cup quinoa, rinsed",
+            "2 cups water or vegetable broth",
+            "2 bell peppers, diced",
+            "1 zucchini, diced",
+            "1 yellow squash, diced",
+            "1 red onion, diced",
+            "2 tablespoons olive oil",
+            "1 teaspoon dried thyme",
+            "Salt and black pepper to taste",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup crumbled feta cheese (optional)",
+            "For the dressing:",
+            "3 tablespoons olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 tablespoon Dijon mustard",
+            "1 clove garlic, minced",
+            "Salt and black pepper to taste"
+        ],
+        "steps": [
+            "Preheat oven to 425°F (220°C). Line a baking sheet with parchment paper.",
+            "In a large bowl, toss diced bell peppers, zucchini, yellow squash, and red onion with olive oil and dried thyme. Season with salt and black pepper to taste.",
+            "Spread vegetables in an even layer on the prepared baking sheet. Roast in the preheated oven for 25-30 minutes, or until vegetables are tender and slightly caramelized.",
+            "Meanwhile, cook quinoa according to package instructions. Fluff with a fork and let cool slightly.",
+            "In a small bowl, whisk together olive oil, red wine vinegar, Dijon mustard, minced garlic, salt, and black pepper to make the dressing.",
+            "In a large bowl, combine cooked quinoa, roasted vegetables, chopped fresh parsley, and crumbled feta cheese (if using). Drizzle with dressing and toss to coat evenly.",
+            "Serve roasted vegetable quinoa salad warm or at room temperature."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Crispy Baked Chicken Tenders",
+        "excerpt": "Homemade chicken tenders coated in a crispy breadcrumb crust.",
+        "description": "Crispy Baked Chicken Tenders are a healthier alternative to fried chicken tenders. They're coated in a seasoned breadcrumb crust and baked until golden and crispy. Perfect for a kid-friendly meal or appetizer.",
+        "ingredients": [
+            "1 lb chicken tenders",
+            "1 cup breadcrumbs",
+            "1/4 cup grated Parmesan cheese",
+            "1 teaspoon garlic powder",
+            "1 teaspoon paprika",
+            "1/2 teaspoon dried thyme",
+            "Salt and black pepper to taste",
+            "2 eggs, beaten",
+            "Cooking spray or olive oil for greasing"
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper and lightly grease with cooking spray or olive oil.",
+            "In a shallow dish, combine breadcrumbs, grated Parmesan cheese, garlic powder, paprika, dried thyme, salt, and black pepper.",
+            "Dip each chicken tender into beaten eggs, then coat with breadcrumb mixture, pressing gently to adhere.",
+            "Place coated chicken tenders on the prepared baking sheet in a single layer.",
+            "Bake in the preheated oven for 15-20 minutes, or until chicken is cooked through and coating is golden and crispy.",
+            "Serve crispy baked chicken tenders hot with your favorite dipping sauce."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Spinach and Feta Stuffed Chicken Breast",
+        "excerpt": "Juicy chicken breast stuffed with spinach and feta cheese.",
+        "description": "Spinach and Feta Stuffed Chicken Breast is an elegant and delicious dish featuring juicy chicken breasts stuffed with a flavorful mixture of spinach, feta cheese, garlic, and herbs. It's perfect for a special dinner or entertaining guests.",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "2 cups fresh spinach leaves",
+            "1/2 cup crumbled feta cheese",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "1 teaspoon dried thyme",
+            "Salt and black pepper to taste",
+            "2 tablespoons olive oil"
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "Using a sharp knife, make a horizontal slit along the side of each chicken breast to create a pocket for stuffing. Be careful not to cut all the way through.",
+            "In a bowl, combine fresh spinach leaves, crumbled feta cheese, minced garlic, dried oregano, dried thyme, salt, and black pepper.",
+            "Stuff each chicken breast with the spinach and feta mixture, dividing it evenly among the breasts. Secure the openings with toothpicks if necessary.",
+            "Heat olive oil in an oven-safe skillet over medium-high heat. Add stuffed chicken breasts to the skillet and cook for 2-3 minutes per side until golden brown.",
+            "Transfer skillet to the preheated oven and bake for 20-25 minutes, or until chicken is cooked through and juices run clear.",
+            "Remove toothpicks before serving. Serve spinach and feta stuffed chicken breasts hot."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Vegetable Fried Rice",
+        "excerpt": "Flavorful fried rice loaded with vegetables and scrambled eggs.",
+        "description": "Vegetable Fried Rice is a delicious and versatile dish made with cooked rice, assorted vegetables, scrambled eggs, and a savory sauce. It's perfect as a side dish or main course and a great way to use up leftover rice and veggies.",
+        "ingredients": [
+            "3 cups cooked rice (preferably day-old)",
+            "2 tablespoons oil",
+            "2 eggs, lightly beaten",
+            "1 onion, diced",
+            "2 carrots, diced",
+            "1 bell pepper, diced",
+            "1 cup frozen peas, thawed",
+            "2 cloves garlic, minced",
+            "3 tablespoons soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 teaspoon sesame oil",
+            "Salt and black pepper to taste",
+            "Chopped green onions for garnish (optional)"
+        ],
+        "steps": [
+            "Heat oil in a large skillet or wok over medium heat. Add beaten eggs and cook, stirring, until scrambled. Remove scrambled eggs from skillet and set aside.",
+            "In the same skillet, add diced onion, carrots, bell pepper, and peas. Stir-fry for 3-4 minutes until vegetables are tender-crisp.",
+            "Add minced garlic to the skillet and stir-fry for another minute until fragrant.",
+            "Add cooked rice and scrambled eggs to the skillet. Stir in soy sauce, oyster sauce, sesame oil, salt, and black pepper. Cook, stirring constantly, for 3-4 minutes until everything is heated through.",
+            "Remove from heat and garnish with chopped green onions if desired.",
+            "Serve vegetable fried rice hot as a side dish or main course."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Chicken Caesar Salad",
+        "excerpt": "Classic Caesar salad with grilled chicken and homemade dressing.",
+        "description": "Chicken Caesar Salad is a classic favorite featuring crisp romaine lettuce, grilled chicken breast, crunchy croutons, and a tangy Caesar dressing. It's easy to make and perfect for a light lunch or dinner.",
+        "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "2 tablespoons olive oil",
+            "Salt and black pepper to taste",
+            "1 head romaine lettuce, chopped",
+            "1 cup cherry tomatoes, halved",
+            "1/2 cup shaved Parmesan cheese",
+            "1 cup garlic croutons",
+            "For the dressing:",
+            "1/4 cup mayonnaise",
+            "2 tablespoons grated Parmesan cheese",
+            "1 tablespoon Dijon mustard",
+            "2 tablespoons fresh lemon juice",
+            "1 clove garlic, minced",
+            "Salt and black pepper to taste"
+        ],
+        "steps": [
+            "Preheat grill or grill pan over medium-high heat.",
+            "Rub chicken breasts with olive oil and season with salt and black pepper.",
+            "Grill chicken breasts for 6-7 minutes per side, or until cooked through and no longer pink in the center. Remove from grill and let rest for a few minutes before slicing.",
+            "In a large bowl, combine chopped romaine lettuce, halved cherry tomatoes, shaved Parmesan cheese, and garlic croutons.",
+            "In a small bowl, whisk together mayonnaise, grated Parmesan cheese, Dijon mustard, fresh lemon juice, minced garlic, salt, and black pepper to make the dressing.",
+            "Add sliced grilled chicken to the salad bowl. Drizzle with Caesar dressing and toss to coat evenly.",
+            "Serve chicken Caesar salad immediately, garnished with additional shaved Parmesan cheese and black pepper if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Baked Ziti with Sausage",
+        "excerpt": "Hearty baked pasta dish with Italian sausage and marinara sauce.",
+        "description": "Baked Ziti with Sausage is a hearty and comforting pasta dish made with ziti noodles, Italian sausage, marinara sauce, and melted mozzarella cheese. It's easy to make and perfect for feeding a crowd.",
+        "ingredients": [
+            "12 ounces ziti pasta",
+            "1 lb Italian sausage, casings removed",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "2 cups marinara sauce",
+            "1 cup shredded mozzarella cheese",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and black pepper to taste",
+            "Chopped fresh basil for garnish (optional)"
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C). Grease a 9x13-inch baking dish with cooking spray or olive oil.",
+            "Cook ziti pasta according to package instructions until al dente. Drain and set aside.",
+            "In a large skillet, cook Italian sausage over medium heat until browned. Add diced onion and minced garlic, and cook until onion is translucent.",
+            "Stir in marinara sauce and cooked ziti pasta, tossing to coat the pasta in the sauce.",
+            "Transfer the pasta mixture to the prepared baking dish. Sprinkle shredded mozzarella cheese and grated Parmesan cheese on top.",
+            "Cover with foil and bake in the preheated oven for 20 minutes.",
+            "Remove foil and bake for an additional 10 minutes, or until cheese is melted and bubbly.",
+            "Remove from oven and let cool for a few minutes before serving.",
+            "Garnish with chopped fresh basil if desired. Serve baked ziti with sausage hot."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Shrimp Scampi Pasta",
+        "excerpt": "Garlic butter shrimp served over linguine pasta.",
+        "description": "Shrimp Scampi Pasta is a flavorful and elegant dish featuring tender shrimp cooked in a garlic butter sauce and served over linguine pasta. It's quick to make and perfect for a special dinner.",
+        "ingredients": [
+            "8 ounces linguine pasta",
+            "1 pound large shrimp, peeled and deveined",
+            "Salt and black pepper to taste",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1/2 cup dry white wine (optional)",
+            "2 tablespoons fresh lemon juice",
+            "1/4 cup chicken broth",
+            "2 tablespoons unsalted butter",
+            "2 tablespoons chopped fresh parsley",
+            "1/4 cup grated Parmesan cheese (optional)"
+        ],
+        "steps": [
+            "Cook linguine pasta according to package instructions until al dente. Drain and set aside.",
+            "Season shrimp with salt and black pepper to taste.",
+            "In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+            "Add seasoned shrimp to the skillet and cook for 2-3 minutes per side until pink and opaque.",
+            "Deglaze the skillet with white wine (if using), scraping up any browned bits from the bottom of the pan.",
+            "Stir in fresh lemon juice, chicken broth, and unsalted butter. Cook for another minute until the sauce is heated through and slightly thickened.",
+            "Add cooked linguine to the skillet and toss to coat in the garlic butter sauce.",
+            "Remove skillet from heat and stir in chopped fresh parsley.",
+            "Serve shrimp scampi pasta hot, garnished with grated Parmesan cheese if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Homemade Macaroni and Cheese",
+        "excerpt": "Classic comfort food made with creamy cheese sauce and elbow macaroni.",
+        "description": "Homemade Macaroni and Cheese is a classic comfort food made with tender elbow macaroni and a creamy cheese sauce. It's easy to make and perfect for a cozy meal.",
+        "ingredients": [
+            "8 ounces elbow macaroni",
+            "2 tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "2 cups milk",
+            "2 cups shredded cheddar cheese",
+            "1/2 teaspoon mustard powder",
+            "Salt and black pepper to taste",
+            "Optional toppings: breadcrumbs, chopped fresh parsley"
+        ],
+        "steps": [
+            "Cook elbow macaroni according to package instructions until al dente. Drain and set aside.",
+            "In a large saucepan, melt butter over medium heat. Stir in all-purpose flour and cook for 1-2 minutes until golden brown.",
+            "Gradually whisk in milk, stirring constantly until smooth and thickened.",
+            "Stir in shredded cheddar cheese and mustard powder until cheese is melted and sauce is smooth.",
+            "Season cheese sauce with salt and black pepper to taste.",
+            "Add cooked macaroni to the cheese sauce and stir to coat evenly.",
+            "Transfer macaroni and cheese to a serving dish. Sprinkle with breadcrumbs and chopped fresh parsley if desired.",
+            "Serve homemade macaroni and cheese hot as a main dish or side."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Caprese Salad",
+        "excerpt": "Simple Italian salad with tomatoes, fresh mozzarella, and basil.",
+        "description": "Caprese Salad is a simple and refreshing Italian salad made with ripe tomatoes, fresh mozzarella cheese, basil leaves, and a drizzle of balsamic glaze. It's light, flavorful, and perfect as an appetizer or side dish.",
+        "ingredients": [
+            "2 large tomatoes, sliced",
+            "8 ounces fresh mozzarella cheese, sliced",
+            "Fresh basil leaves",
+            "2 tablespoons extra virgin olive oil",
+            "2 tablespoons balsamic glaze",
+            "Salt and black pepper to taste"
+        ],
+        "steps": [
+            "Arrange sliced tomatoes and fresh mozzarella cheese on a serving platter, alternating between the two.",
+            "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+            "Drizzle extra virgin olive oil and balsamic glaze over the salad.",
+            "Season with salt and black pepper to taste.",
+            "Serve Caprese Salad immediately as an appetizer or side dish."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Beef and Vegetable Stir-Fry",
+        "excerpt": "Quick and flavorful stir-fry with tender beef and assorted vegetables.",
+        "description": "Beef and Vegetable Stir-Fry is a quick and flavorful dish featuring tender beef strips, crisp vegetables, and a savory sauce. It's easy to make and perfect for a busy weeknight dinner.",
+        "ingredients": [
+            "1 lb flank steak, thinly sliced against the grain",
+            "3 tablespoons soy sauce",
+            "2 tablespoons oyster sauce",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "2 tablespoons oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "1 onion, sliced",
+            "1 bell pepper, sliced",
+            "2 cups broccoli florets",
+            "Salt and black pepper to taste",
+            "Cooked rice for serving"
+        ],
+        "steps": [
+            "In a bowl, combine thinly sliced flank steak with soy sauce, oyster sauce, hoisin sauce, and cornstarch. Let marinate for 15-30 minutes.",
+            "Heat oil in a large skillet or wok over high heat. Add minced garlic and grated ginger, and stir-fry for 30 seconds until fragrant.",
+            "Add marinated beef strips to the skillet and stir-fry until browned.",
+            "Add sliced onion, sliced bell pepper, and broccoli florets to the skillet. Stir-fry for another 2-3 minutes until vegetables are tender-crisp.",
+            "Season with salt and black pepper to taste.",
+            "Serve beef and vegetable stir-fry hot over cooked rice."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Mushroom Risotto",
+        "excerpt": "Creamy Italian rice dish cooked with mushrooms and Parmesan cheese.",
+        "description": "Mushroom Risotto is a creamy and comforting Italian rice dish made with Arborio rice, mushrooms, onions, garlic, white wine, and Parmesan cheese. It's rich, flavorful, and perfect for a special meal.",
+        "ingredients": [
+            "6 cups chicken or vegetable broth",
+            "2 tablespoons olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 lb mushrooms, sliced",
+            "2 cups Arborio rice",
+            "1/2 cup dry white wine",
+            "1/2 cup grated Parmesan cheese",
+            "2 tablespoons unsalted butter",
+            "Salt and black pepper to taste",
+            "Chopped fresh parsley for garnish (optional)"
+        ],
+        "steps": [
+            "In a saucepan, heat chicken or vegetable broth over low heat. Keep warm.",
+            "In a large skillet or Dutch oven, heat olive oil over medium heat. Add chopped onion and minced garlic, and sauté until softened.",
+            "Add sliced mushrooms to the skillet and cook until they release their moisture and become tender.",
+            "Stir in Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is lightly toasted.",
+            "Pour in dry white wine and cook, stirring, until the liquid is absorbed.",
+            "Ladle warm broth into the skillet, one ladleful at a time, stirring frequently and allowing the liquid to be absorbed before adding more. Continue cooking until the rice is creamy and al dente, about 20-25 minutes.",
+            "Stir in grated Parmesan cheese and unsalted butter until melted and creamy.",
+            "Season with salt and black pepper to taste.",
+            "Garnish with chopped fresh parsley if desired. Serve mushroom risotto hot."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Chicken Fajitas",
+        "excerpt": "Sizzling chicken strips served with peppers, onions, and tortillas.",
+        "description": "Chicken Fajitas are a Tex-Mex favorite featuring sizzling chicken strips seasoned with Mexican spices, sautéed peppers and onions, and warm tortillas. They're fun to assemble and perfect for a casual dinner.",
+        "ingredients": [
+            "1 lb boneless, skinless chicken breasts, thinly sliced",
+            "2 tablespoons olive oil",
+            "1 onion, sliced",
+            "1 bell pepper, sliced",
+            "1 teaspoon chili powder",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon garlic powder",
+            "1/4 teaspoon cayenne pepper (optional)",
+            "Salt and black pepper to taste",
+            "8 small flour tortillas",
+            "Toppings: shredded cheese, salsa, sour cream, guacamole, chopped cilantro"
+        ],
+        "steps": [
+            "In a bowl, combine thinly sliced chicken breasts with olive oil, chili powder, ground cumin, paprika, garlic powder, cayenne pepper (if using), salt, and black pepper. Toss to coat the chicken evenly.",
+            "Heat a large skillet or grill pan over medium-high heat. Add seasoned chicken slices and cook for 6-8 minutes, stirring occasionally, until cooked through and lightly browned. Remove chicken from skillet and set aside.",
+            "In the same skillet, add sliced onion and bell pepper. Sauté for 4-5 minutes until vegetables are tender-crisp.",
+            "Return cooked chicken to the skillet and toss everything together.",
+            "Warm flour tortillas in the skillet or microwave according to package instructions.",
+            "Serve chicken fajitas hot with warm tortillas and your favorite toppings."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Vegetable Lasagna",
+        "excerpt": "Hearty vegetarian lasagna packed with vegetables and cheese.",
+        "description": "Vegetable Lasagna is a hearty and satisfying dish made with layers of lasagna noodles, marinara sauce, assorted vegetables, ricotta cheese, and mozzarella cheese. It's a comforting meal that's perfect for vegetarians and meat lovers alike.",
+        "ingredients": [
+            "9 lasagna noodles",
+            "2 cups marinara sauce",
+            "2 cups ricotta cheese",
+            "1 egg",
+            "1 cup shredded mozzarella cheese",
+            "1/2 cup grated Parmesan cheese",
+            "2 cups assorted vegetables (such as spinach, zucchini, mushrooms, bell peppers)",
+            "Salt and black pepper to taste",
+            "Chopped fresh basil for garnish (optional)"
+        ],
+        "steps": [
+            "Preheat oven to 375°F (190°C). Grease a 9x13-inch baking dish with cooking spray or olive oil.",
+            "Cook lasagna noodles according to package instructions until al dente. Drain and set aside.",
+            "In a bowl, combine ricotta cheese, egg, shredded mozzarella cheese, grated Parmesan cheese, salt, and black pepper. Mix until well combined.",
+            "Spread a thin layer of marinara sauce on the bottom of the prepared baking dish.",
+            "Arrange three lasagna noodles on top of the sauce.",
+            "Spread half of the ricotta cheese mixture over the noodles.",
+            "Layer half of the assorted vegetables on top of the ricotta cheese mixture.",
+            "Repeat the layers: marinara sauce, lasagna noodles, ricotta cheese mixture, and assorted vegetables.",
+            "Top with remaining marinara sauce and sprinkle with additional shredded mozzarella cheese and grated Parmesan cheese.",
+            "Cover with foil and bake in the preheated oven for 30 minutes.",
+            "Remove foil and bake for an additional 15 minutes, or until cheese is melted and bubbly.",
+            "Remove from oven and let cool for a few minutes before serving.",
+            "Garnish with chopped fresh basil if desired. Serve vegetable lasagna hot."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "One-Pan Chicken and Vegetables",
+        "excerpt": "Easy and flavorful chicken and vegetable dinner cooked on one pan.",
+        "description": "One-Pan Chicken and Vegetables is a simple and satisfying meal featuring seasoned chicken breasts and an assortment of colorful vegetables roasted together on a single sheet pan. It's easy to make and perfect for busy weeknights.",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "2 cups baby potatoes, halved",
+            "2 cups broccoli florets",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 red onion, sliced",
+            "3 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried thyme",
+            "1 teaspoon dried rosemary",
+            "Salt and black pepper to taste",
+            "Chopped fresh parsley for garnish (optional)"
+        ],
+        "steps": [
+            "Preheat oven to 400°F (200°C). Line a large baking sheet with parchment paper.",
+            "In a large bowl, combine halved baby potatoes, broccoli florets, sliced bell peppers, sliced red onion, minced garlic, dried thyme, dried rosemary, salt, and black pepper. Drizzle with olive oil and toss to coat everything evenly.",
+            "Arrange seasoned vegetables on the prepared baking sheet in an even layer.",
+            "Season chicken breasts with salt and black pepper on both sides. Place chicken breasts on top of the vegetables on the baking sheet.",
+            "Bake in the preheated oven for 25-30 minutes, or until chicken is cooked through and vegetables are tender, stirring halfway through.",
+            "Remove from oven and let chicken rest for a few minutes before slicing.",
+            "Garnish with chopped fresh parsley if desired. Serve one-pan chicken and vegetables hot."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Pesto Pasta with Cherry Tomatoes",
+        "excerpt": "Flavorful pasta dish with homemade pesto and fresh cherry tomatoes.",
+        "description": "Pesto Pasta with Cherry Tomatoes is a flavorful and vibrant dish made with al dente pasta tossed in homemade basil pesto and topped with sweet cherry tomatoes. It's light, refreshing, and perfect for a quick and easy meal.",
+        "ingredients": [
+            "8 ounces pasta (such as spaghetti or penne)",
+            "2 cups fresh basil leaves",
+            "1/3 cup pine nuts or walnuts",
+            "2 cloves garlic",
+            "1/2 cup grated Parmesan cheese",
+            "1/2 cup extra virgin olive oil",
+            "Salt and black pepper to taste",
+            "1 pint cherry tomatoes, halved"
+        ],
+        "steps": [
+            "Cook pasta according to package instructions until al dente. Drain and set aside, reserving some pasta water.",
+            "In a food processor, combine fresh basil leaves, pine nuts or walnuts, minced garlic, grated Parmesan cheese, salt, and black pepper. Pulse until finely chopped.",
+            "With the food processor running, gradually drizzle in extra virgin olive oil until pesto is smooth and well combined. If the pesto is too thick, add a little pasta water to thin it out.",
+            "Toss cooked pasta with homemade pesto until evenly coated.",
+            "Gently fold in halved cherry tomatoes.",
+            "Serve pesto pasta with cherry tomatoes warm or at room temperature."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "title": "Teriyaki Chicken Bowls",
+        "excerpt": "Japanese-inspired bowls with teriyaki chicken, rice, and vegetables.",
+        "description": "Teriyaki Chicken Bowls are a delicious and satisfying meal featuring tender chicken thighs marinated in a homemade teriyaki sauce, served over steamed rice and sautéed vegetables. They're easy to make and perfect for a flavorful dinner.",
+        "ingredients": [
+            "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces",
+            "1/4 cup soy sauce",
+            "2 tablespoons honey",
+            "1 tablespoon rice vinegar",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "2 tablespoons oil",
+            "2 cups cooked rice",
+            "2 cups mixed vegetables (such as broccoli, bell peppers, carrots, snap peas)",
+            "Toasted sesame seeds for garnish (optional)",
+            "Chopped green onions for garnish (optional)"
+        ],
+        "steps": [
+            "In a bowl, combine soy sauce, honey, rice vinegar, minced garlic, and grated ginger to make the teriyaki sauce. Add chicken pieces to the bowl and toss to coat evenly. Let marinate for 15-30 minutes.",
+            "Heat oil in a large skillet or wok over medium-high heat. Add marinated chicken pieces and cook for 6-8 minutes, stirring occasionally, until browned and cooked through.",
+            "Remove cooked chicken from the skillet and set aside.",
+            "In the same skillet, add mixed vegetables and stir-fry for 4-5 minutes until tender-crisp.",
+            "Return cooked chicken to the skillet and add teriyaki sauce. Cook for another minute until everything is heated through and coated in the sauce.",
+            "Serve teriyaki chicken over cooked rice, garnished with toasted sesame seeds and chopped green onions if desired."
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?q=80&w=3328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

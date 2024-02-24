@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
               <Link href={"/contact"}>Contact</Link>
           </nav>
 
-          <h5>Sign In</h5>
+          <button className={"bg-gray-50 px-2 py-1 rounded text-black text-xs uppercase"}>Sign In</button>
       </header>
       <div className={"flex  justify-center items-center"}>
           <div className={"max-w-5/6"}>
